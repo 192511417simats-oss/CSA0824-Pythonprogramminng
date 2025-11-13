@@ -1,0 +1,9 @@
+a=int(input("Enter the Number:"))
+b=int(input("Enter the Number"))
+a,b=b,a
+print ("After swaping:","a=",a,"b=",b)
+Enter the Number:6
+Enter the Number7
+After swaping: a= 7 b= 6
+
+=== Code Execution Successful ===
