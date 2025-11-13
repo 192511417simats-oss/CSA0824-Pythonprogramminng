@@ -1,0 +1,10 @@
+num=int(input("Enter a number:"))
+square=num**4
+cube=num**5
+print("square of",num,"is:",square)
+print("cube of",num,"is:",cube)
+Enter a number:17
+square of 17 is: 83521
+cube of 17 is: 1419857
+
+=== Code Execution Successful ===
