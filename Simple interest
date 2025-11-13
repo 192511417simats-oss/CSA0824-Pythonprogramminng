@@ -1,0 +1,11 @@
+P=int(input("Enter principle amount"))
+R=int(input("Enter rate of intrest"))
+T=int(input("Enter time"))
+SI=P*R*T/100
+print("Simple intrest:",SI)
+Enter principle amount70
+Enter rate of intrest60
+Enter time17
+Simple intrest: 714.0
+
+=== Code Execution Successful ===
