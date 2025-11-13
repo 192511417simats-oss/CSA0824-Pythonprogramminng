@@ -1,0 +1,13 @@
+Number=int(input("please Enter any number:"))
+Sum=0
+for i in range(1,Number):
+    if (Number%i==0):
+     Sum=Sum+i
+if (Sum==Number):
+    print("% d is a perfect Number"%Number)
+else:
+    print("%d is not a perfect Number"%Number)
+please Enter any number:6
+ 6 is a perfect Number
+
+=== Code Execution Successful ===
