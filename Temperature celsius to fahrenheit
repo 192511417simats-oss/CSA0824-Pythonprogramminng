@@ -1,0 +1,7 @@
+Celsius=int(input("Enter temperature in celsius"))
+fahrenheit = (Celsius * 9/5) + 32
+print("temperature in fahrenheit:",fahrenheit)
+Enter temperature in celsius99
+temperature in fahrenheit: 210.2
+
+=== Code Execution Successful ===
