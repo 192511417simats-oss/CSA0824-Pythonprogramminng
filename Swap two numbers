@@ -1,0 +1,11 @@
+a=int(input("Enter the Number:"))
+b=int(input("Enter the Number"))
+c=a
+a=b
+b=c
+print ("After swaping:","a=",a,"b=",b)
+Enter the Number:8
+Enter the Number9
+After swaping: a= 9 b= 8
+
+=== Code Execution Successful ===
